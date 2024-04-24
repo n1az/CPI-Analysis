@@ -1,0 +1,16 @@
+As a food lover who enjoys grocery shopping and cooking, this dataset on the Consumer Price Index (CPI)
+for Germany (https://www-genesis.destatis.de/genesis//online?operation=table&code=61111-0003&bypass=true&levelindex=0&levelid=1713996336773#abreadcrumb)
+is particularly interesting to me for many reasons like understanding the CPI trends for
+food and beverages can help me budget more effectively for my grocery shopping. 🍲🛒
+
+Possible questions to answer with these data:
+
+1. How have food prices evolved over the last five years?
+
+2. For which product (or group of products) CPI has been stable for the last five years?
+
+3. What is the correlation between the CPI for dairy products and the CPI for meat products?
+
+4. For which product (or group of products) CPI has been increased and decreased the most?
+
+5. Can we predict future trends in food prices based on historical CPI data?

@@ -1,0 +1,451 @@
+GENESIS-Tabelle: 61111-0003
+Consumer price index: Germany, years, individual consumption;;;;;;
+by purpose (COICOP 2-5-digit hierarchy);;;;;;
+Consumer price index for Germany;;;;;;
+Germany;;;;;;
+Consumer price index (2020=100);;;;;;
+;;2019;2020;2021;2022;2023
+CC13-01;Food and non-alcoholic beverages;97.9;100.0;103.1;116.0;130.3
+CC13-011;  Food;97.8;100.0;103.1;116.9;131.4
+CC13-0111;    Bread and cereals;99.2;100.0;103.3;116.8;135.9
+CC13-01111;      Rice, including rice preparations;98.7;100.0;102.6;115.7;135.5
+CC13-01112;      Flour and other cereals;100.2;100.0;104.1;134.2;157.6
+CC13-01113;      Bread and bread rolls;98.6;100.0;103.8;117.8;132.5
+CC13-01114;      Other bakery products;99.6;100.0;103.6;115.7;140.6
+CC13-01115;      Pizza, quiches or the like;101.1;100.0;101.8;113.5;136.1
+CC13-01116;      Pasta;98.8;100.0;102.3;122.5;144.9
+CC13-01117;      Breakfast cereals;99.8;100.0;102.5;111.5;131.4
+CC13-01118;      Other cereal products;100.6;100.0;100.7;106.1;114.6
+CC13-0112;    Meat and meat products;94.3;100.0;102.8;117.7;127.5
+CC13-01121;      Beef and veal;98.6;100.0;103.2;123.0;129.7
+CC13-01122;      Pork;91.9;100.0;102.5;119.6;127.9
+CC13-01123;      Lamb, goat meat;99.3;100.0;103.8;119.8;128.9
+CC13-01124;      Poultry;98.6;100.0;104.9;128.9;142.5
+CC13-01125;      Other meats;99.6;100.0;102.1;106.0;119.4
+CC13-01126;      Liver or other edible offal;98.8;100.0;102.0;109.4;117.5
+CC13-01127;      Meat products and sausages;92.8;100.0;102.0;113.7;123.8
+CC13-01128;      Other meat, processed and prepared;93.7;100.0;103.0;116.1;126.4
+CC13-0113;    Fish, fish products and seafood;99.2;100.0;102.0;112.6;129.1
+CC13-01131;      Fresh or chilled fish and fish filets;97.2;100.0;103.4;117.5;128.9
+CC13-01132;      Frozen fish and fish filets;97.0;100.0;101.7;112.6;134.4
+CC13-01133;      Fresh or chilled seafood;100.1;100.0;101.4;106.9;113.8
+CC13-01134;      Frozen seafood;101.1;100.0;99.7;102.0;107.6
+CC13-01135;      Dried, smoked or salted fish;100.1;100.0;98.3;111.1;125.6
+CC13-01136;      Tinned fish and other fish preparations;99.6;100.0;103.1;114.2;133.0
+CC13-0114;    Dairy products and eggs;99.2;100.0;103.9;124.2;143.7
+CC13-01141;      Whole milk;96.2;100.0;104.0;124.8;136.3
+CC13-01142;      Low fat milk;95.2;100.0;104.8;127.8;142.1
+CC13-01143;      Condensed milk;98.2;100.0;103.4;128.9;159.9
+CC13-01144;      Yoghurt ;100.9;100.0;101.6;117.7;134.9
+CC13-01145;      Cheese and curd;99.7;100.0;103.8;124.6;149.1
+CC13-01146;      Other dairy products;101.0;100.0;102.7;122.0;141.5
+CC13-01147;      Eggs;98.3;100.0;107.2;128.0;136.4
+CC13-0115;    Edible fats and oils;104.6;100.0;105.4;144.9;139.9
+CC13-01151;      Butter;107.2;100.0;105.1;146.4;120.3
+CC13-01152;      Margarine or vegetable fat;99.7;100.0;105.8;134.2;162.9
+CC13-01153;      Olive oil;103.9;100.0;101.0;113.7;145.0
+CC13-01154;      Sunflower oil, rapeseed oil or the like;100.2;100.0;111.1;183.6;187.0
+CC13-01155;      Lard or other fats of animal origin;97.9;100.0;104.1;122.5;131.8
+CC13-0116;    Fruit;93.5;100.0;101.6;105.7;114.4
+CC13-01161;      Fresh or chilled fruit;92.3;100.0;101.6;105.0;112.2
+CC13-01162;      Frozen fruit;99.1;100.0;103.4;124.8;131.8
+CC13-01163;      Dried fruit, nuts or the like;98.2;100.0;100.4;104.5;115.8
+CC13-01164;      Tinned fruit;98.4;100.0;104.6;114.0;137.5
+CC13-0117;    Vegetables;99.7;100.0;104.2;116.7;132.2
+CC13-01171;      Fresh or chilled vegetables (excluding potatoes);97.7;100.0;104.4;115.8;127.3
+CC13-01172;      Frozen vegetables (excluding potatoes);97.6;100.0;105.0;113.0;134.0
+CC13-01173;      Dried vegetables and preserved vegetables;97.7;100.0;107.2;124.3;149.5
+CC13-01174;      Fresh, chilled and processed potatoes;109.1;100.0;100.4;114.7;134.7
+CC13-01175;      Potato crisps and potato sticks;101.2;100.0;103.8;118.1;145.5
+CC13-0118;    Sugar, jam, honey and other confectionery;99.1;100.0;103.3;109.8;127.0
+CC13-01181;      Sugar;88.5;100.0;104.0;118.5;180.6
+CC13-01182;      Jam, marmelade, honey or the like;100.5;100.0;101.6;112.7;128.5
+CC13-01183;      Chocolate;99.8;100.0;104.3;110.1;126.5
+CC13-01184;      Confectionery products;99.4;100.0;103.1;106.5;119.8
+CC13-01185;      Ice cream;99.2;100.0;103.3;108.9;123.6
+CC13-01186;      Sweeteners ;103.0;100.0;94.5;104.2;119.0
+CC13-0119;    Food products n.e.c.;99.9;100.0;101.7;111.2;129.5
+CC13-01191;      Sauces and condiments;99.8;100.0;102.4;115.4;143.1
+CC13-01192;      Table salt, culinary herbs and flavourings;100.5;100.0;100.5;107.5;118.3
+CC13-01193;      Baby food;96.7;100.0;104.2;111.1;122.2
+CC13-01194;      Convenience food n.e.c.;101.2;100.0;100.7;105.8;118.4
+CC13-01199;      Soups and other food preparations;99.8;100.0;101.7;111.3;127.0
+CC13-012;  Non-alcoholic beverages;99.0;100.0;102.7;110.1;121.7
+CC13-0121;    Coffee, tea and cocoa;100.7;100.0;103.0;114.9;120.5
+CC13-01211;      Coffee or the like;100.9;100.0;103.5;117.9;122.5
+CC13-01212;      Tea;100.2;100.0;101.7;105.4;111.9
+CC13-01213;      Cocoa powder or the like;97.9;100.0;99.7;107.6;127.8
+CC13-0122;    Mineral water, soft drinks and juices;98.3;100.0;102.7;107.9;122.2
+CC13-01221;      Mineral water;99.8;100.0;102.2;109.5;120.9
+CC13-01222;      Refreshments (excluding mineral water);96.3;100.0;103.4;108.3;120.6
+CC13-01223;      Fruit and vegetable juices;98.7;100.0;102.1;105.4;126.2
+CC13-02;Alcoholic beverages and tobacco;98.1;100.0;103.5;107.9;117.1
+CC13-021;  Alcoholic beverages;100.7;100.0;101.6;106.0;116.0
+CC13-0211;    Spirits;100.5;100.0;101.9;105.1;113.0
+CC13-02111;      Liqueur and other spirits;100.5;100.0;101.9;105.1;112.8
+CC13-02112;      Refreshments, alcohol content of less than 6%;99.6;100.0;101.2;105.0;117.1
+CC13-0212;    Wine;100.6;100.0;101.7;106.4;115.4
+CC13-02121;      Wine from grapes;100.5;100.0;101.8;106.6;115.3
+CC13-02122;      Pome fruit wine or wine from other fruits;98.9;100.0;102.7;107.5;120.3
+CC13-02123;      Wine, alcohol content more than 15%;100.7;100.0;100.9;101.7;108.2
+CC13-02124;      Other wine-based drinks;102.8;100.0;99.1;103.4;117.2
+CC13-0213;    Beer;101.0;100.0;101.3;106.2;118.5
+CC13-02131;      Pils, dark beer or other lager beer;101.3;100.0;101.1;106.1;118.3
+CC13-02132;      Wheat beer, Alt beer or other top-fermented beer;99.3;100.0;102.1;106.0;117.0
+CC13-02133;      Non-alcoholic beer, malt beer or the like;100.6;100.0;102.1;107.3;119.9
+CC13-02134;      Beer-based drinks;100.1;100.0;101.9;106.1;119.9
+CC13-022;  Tobacco;96.1;100.0;105.1;109.3;118.0
+CC13-0220;    Tobacco;96.1;100.0;105.1;109.3;118.0
+CC13-02201;      Cigarettes;96.3;100.0;105.7;109.6;117.5
+CC13-02202;      Cigars and small cigars;96.5;100.0;101.7;103.9;111.3
+CC13-02203;      Tobacco, refills or the like for e-cigarettes;95.2;100.0;102.9;109.0;121.3
+CC13-03;Clothing and footwear;101.7;100.0;101.5;102.3;106.1
+CC13-031;  Clothing;100.9;100.0;101.8;102.6;106.6
+CC13-0311;    Clothing materials;101.9;100.0;103.4;105.3;107.4
+CC13-03110;      Clothing materials;101.9;100.0;103.4;105.3;107.4
+CC13-0312;    Garments;101.0;100.0;101.7;102.3;106.2
+CC13-03121;      Men's wear;101.6;100.0;101.6;102.7;106.4
+CC13-03122;      Women's wear;100.6;100.0;101.5;101.4;105.2
+CC13-03123;      Children's wear;101.3;100.0;103.3;105.9;110.8
+CC13-0313;    Other articles of clothing a. clothing accessories;98.4;100.0;102.5;106.6;110.9
+CC13-03131;      Other garments;98.4;100.0;102.9;106.3;110.2
+CC13-03132;      Clothing accessories;98.0;100.0;100.8;107.8;113.6
+CC13-0314;    Dry cleaning, other services relating to clothing;97.8;100.0;102.5;108.4;117.8
+CC13-03141;      Dry cleaning, laundering and ironing of garments;97.5;100.0;102.3;109.0;120.6
+CC13-03142;      Altering and repair of garments;98.4;100.0;102.7;107.6;113.6
+CC13-032;  Footwear;101.7;100.0;99.9;100.5;103.6
+CC13-0321;    Shoes and other footwear;101.7;100.0;99.8;100.4;103.3
+CC13-03211;      Men's shoes;102.7;100.0;100.4;103.0;106.0
+CC13-03212;      Women's shoes;101.6;100.0;99.1;98.5;101.4
+CC13-03213;      Children's shoes;99.1;100.0;100.8;101.5;104.2
+CC13-0322;    Repair of footwear;97.6;100.0;103.8;110.9;119.2
+CC13-03220;      Repair of footwear;97.6;100.0;103.8;110.9;119.2
+CC13-04;Housing, water, electricity, gas and other fuels;99.0;100.0;101.7;109.1;114.5
+CC13-041;  Actual rentals for housing;98.6;100.0;101.4;103.1;105.2
+CC13-0411;    Actual net rent;98.6;100.0;101.4;103.2;105.4
+CC13-04110;      Actual net rent;98.6;100.0;101.4;103.2;105.4
+CC13-0412;    Other rentals;98.9;100.0;100.9;102.0;103.2
+CC13-04122;      Rental for garages or other rents;98.9;100.0;100.9;102.0;103.2
+CC13-042;  Imputed net rent;-;100.0;101.1;102.6;104.7
+CC13-0421;    Imputed net rent;-;100.0;101.1;102.6;104.7
+CC13-04210;      Imputed net rent;-;100.0;101.1;102.6;104.7
+CC13-043;  Maintenance and repair of the dwelling;98.9;100.0;104.5;116.3;127.3
+CC13-0431;    Materials f. maintenance a. repair of the dwelling;100.5;100.0;103.2;112.6;118.5
+CC13-04310;      Materials f. maintenance a. repair of the dwelling;100.5;100.0;103.2;112.6;118.5
+CC13-0432;    Services for maintenance a. repair of the dwelling;97.5;100.0;106.0;120.3;136.8
+CC13-04321;      Works on gas, water and drainage systems;97.2;100.0;106.9;123.5;143.8
+CC13-04322;      Electrical installation;96.9;100.0;107.0;122.8;139.2
+CC13-04323;      Works on heating systems and water heating systems;97.6;100.0;106.3;121.9;141.3
+CC13-04324;      Works of painters or paperhangers;98.1;100.0;104.9;116.3;129.2
+CC13-04325;      Carpentry work;98.6;100.0;106.5;124.4;141.7
+CC13-04329;      Small services of other craftsmen;97.6;100.0;104.0;112.6;124.1
+CC13-044;  Water supply, misc. services rel. to the dwelling;98.8;100.0;102.4;104.8;109.0
+CC13-0441;    Water supply;100.0;100.0;102.9;105.2;110.9
+CC13-04410;      Water supply;100.0;100.0;102.9;105.2;110.9
+CC13-0442;    Refuse collection;97.3;100.0;103.5;106.1;108.0
+CC13-04420;      Refuse collection;97.3;100.0;103.5;106.1;108.0
+CC13-0443;    Sewage disposal;99.7;100.0;101.3;103.3;106.6
+CC13-04430;      Sewage disposal;99.7;100.0;101.3;103.3;106.6
+CC13-0444;    Other services relating to the dwelling n.e.c.;98.5;100.0;102.4;104.8;109.5
+CC13-04441;      Real estate, services for gardening or the like;98.6;100.0;102.3;104.6;109.4
+CC13-04449;      Chimney sweeping, pavement and street cleaning;97.9;100.0;103.3;105.4;110.7
+CC13-045;  Electricity, gas and other fuels;100.3;100.0;102.6;136.1;155.1
+CC13-0451;    Electricity;97.0;100.0;101.3;120.8;136.1
+CC13-04510;      Electricity;97.0;100.0;101.3;120.8;136.1
+CC13-0452;    Gas, including operating costs ;98.8;100.0;103.8;153.8;193.5
+CC13-04521;      Natural gas, including operating costs;98.5;100.0;102.7;152.1;194.4
+CC13-04522;      Liquefied gas, charging of a tank container;110.5;100.0;143.2;217.8;158.4
+CC13-0453;    Heating oil, including operating costs;123.2;100.0;108.5;187.7;176.4
+CC13-04530;      Heating oil, including operating costs;123.2;100.0;108.5;187.7;176.4
+CC13-0454;    Solid fuels;104.0;100.0;100.9;158.0;169.7
+CC13-04541;      Coal briquettes;100.3;100.0;101.2;131.1;197.8
+CC13-04549;      Firewood, wood pellets or other solid fuels;104.0;100.0;100.9;158.5;169.2
+CC13-0455;    District heating and others;102.1;100.0;101.0;125.8;138.5
+CC13-04550;      District heating and others;102.1;100.0;101.0;125.8;138.5
+CC13-05;Furniture, lighting equipment, appliances etc.;99.9;100.0;102.7;110.5;117.6
+CC13-051;  Furniture, lighting equip., carpets, floor cover.;99.7;100.0;103.6;112.7;120.4
+CC13-0511;    Furniture and lighting equipment;99.7;100.0;103.7;113.0;120.8
+CC13-05111;      Household furniture;99.7;100.0;103.7;112.6;120.6
+CC13-05112;      Garden furniture or camping furniture;99.1;100.0;106.1;118.7;129.3
+CC13-05113;      Lighting equipment;100.6;100.0;103.6;109.4;112.5
+CC13-05119;      Other furnishings;99.6;100.0;103.1;115.6;123.5
+CC13-0512;    Carpets and other elastic floor coverings;99.8;100.0;102.0;110.0;116.9
+CC13-05121;      Carpets;101.2;100.0;101.4;109.1;115.8
+CC13-05122;      Linoleum or other elastic floor coverings;98.4;100.0;102.7;110.4;115.4
+CC13-05123;      Laying and fixing of elastic floor coverings;96.4;100.0;103.4;112.7;122.9
+CC13-0513;    Repair of furniture, lighting equip., floor cover.;97.8;100.0;102.9;107.9;112.7
+CC13-05130;      Repair of furniture, lighting equip., floor cover.;97.8;100.0;102.9;107.9;112.7
+CC13-052;  Household textiles;100.4;100.0;102.0;109.7;115.3
+CC13-0520;    Household textiles;100.4;100.0;102.0;109.7;115.3
+CC13-05201;      Curtains, curtain fabrics, furniture fabrics etc.;100.7;100.0;101.5;109.4;112.8
+CC13-05202;      Bedding and bed linen;99.3;100.0;102.6;109.1;115.9
+CC13-05203;      Table linen and bathroom linen;100.9;100.0;100.5;107.4;114.8
+CC13-05209;      Other household textiles;102.1;100.0;102.5;113.3;117.8
+CC13-053;  Household appliances;100.4;100.0;102.1;106.1;111.7
+CC13-0531;    Major household appliances whether electric or not;100.7;100.0;101.7;105.7;110.6
+CC13-05311;      Refrigerators, freezers and fridge-freezers;101.2;100.0;102.1;107.0;110.5
+CC13-05312;      Washing machines, dishwashers or the like;100.8;100.0;100.1;103.7;108.6
+CC13-05313;      Cookers;100.2;100.0;101.0;104.5;110.7
+CC13-05314;      Room heaters and air conditioners;99.1;100.0;105.6;111.3;117.7
+CC13-05315;      Vacuum cleaners and other cleaning equipment;102.6;100.0;101.5;103.7;108.0
+CC13-05319;      Sewing machine, other major household appliances ;99.8;100.0;100.2;100.6;107.5
+CC13-0532;    Small electric household appliances;100.1;100.0;102.8;107.0;113.7
+CC13-05321;      Electric mixer, blender or the like;99.0;100.0;104.2;105.1;111.7
+CC13-05322;      Coffee machines, tea makers and similar appliances;100.8;100.0;103.1;108.1;112.6
+CC13-05323;      Iron;98.3;100.0;100.4;105.1;117.4
+CC13-05324;      Toaster or barbecue grill;100.1;100.0;99.1;106.5;112.6
+CC13-05329;      Egg boiler, small electric household appliances;101.1;100.0;101.1;108.8;119.6
+CC13-0533;    Repair of household appliances;98.5;100.0;102.7;107.8;114.6
+CC13-05330;      Repair of household appliances;98.5;100.0;102.7;107.8;114.6
+CC13-054;  Glassware, tableware, other semi-durables,durables;100.2;100.0;102.2;108.4;112.5
+CC13-0540;    Glassware, tableware, other semi-durables,durables;100.2;100.0;102.2;108.4;112.5
+CC13-05401;      Tableware, glassware and crystal ware;100.5;100.0;103.6;110.5;115.8
+CC13-05402;      Cutlery, flatware and silverware;99.9;100.0;102.6;106.1;109.7
+CC13-05403;      Non-electric kitchen utensils and articles;100.2;100.0;101.7;108.0;111.9
+CC13-055;  Tools and appliances for house and garden;100.8;100.0;101.6;105.9;110.3
+CC13-0551;    Motor-driven tools or the like for house/garden;102.2;100.0;100.9;103.2;107.5
+CC13-05511;      Motor-driven tools and appliances;102.5;100.0;101.0;103.2;107.6
+CC13-05512;      Rental of motor-driven tools and appliances;100.0;100.0;99.8;102.6;106.6
+CC13-0552;    Gardening tools,equip.,other semi-durables,durabl.;100.2;100.0;101.9;107.2;111.6
+CC13-05521;      Non-electric small tools;100.7;100.0;102.4;108.7;114.7
+CC13-05522;      Other semi-durables and durables for housekeeping;99.8;100.0;101.6;106.4;110.1
+CC13-056;  Goods and services for housekeeping;98.4;100.0;102.5;113.7;125.2
+CC13-0561;    Non-durable goods for housekeeping;99.7;100.0;101.6;113.3;124.5
+CC13-05611;      Cleaning and care products;99.4;100.0;100.7;113.3;125.9
+CC13-05612;      Other non-durable consumer goods;100.0;100.0;102.2;113.3;123.4
+CC13-0562;    Domestic services and other household services;96.8;100.0;103.7;114.2;126.0
+CC13-05621;      Domestic services by paid staff;95.3;100.0;101.6;117.0;136.0
+CC13-05622;      Cleaning of carpets, household linen or the like;99.0;100.0;101.9;107.0;114.5
+CC13-05629;      Other services for housekeeping;98.2;100.0;105.8;112.9;119.0
+CC13-06;Health;98.7;100.0;100.5;101.8;104.9
+CC13-061;  Medical products, appliances and equipment;98.5;100.0;101.3;103.1;107.5
+CC13-0611;    Pharmaceutical products ;99.5;100.0;101.6;103.6;107.5
+CC13-06110;      Pharmaceutical products;99.5;100.0;101.6;103.6;107.5
+CC13-0612;    Other medical products;95.3;100.0;101.1;101.9;106.8
+CC13-06121;      Pregnancy tests, condoms or the like;97.8;100.0;102.0;104.0;111.2
+CC13-06129;      Other medical products n.e.c.;95.4;100.0;101.1;101.8;106.4
+CC13-0613;    Therapeutic appliances and equipment;100.0;100.0;101.1;103.4;108.2
+CC13-06131;      Glasses and contact lenses;99.9;100.0;101.0;102.9;107.6
+CC13-06132;      Hearing aids;100.4;100.0;101.8;102.8;104.5
+CC13-06133;      Repair of therapeutic appliances and equipment;99.5;100.0;99.1;101.5;108.1
+CC13-06139;      Other therapeutic appliances and equipment;100.7;100.0;102.9;107.6;113.1
+CC13-062;  Outpatient services;100.0;100.0;98.9;99.5;101.0
+CC13-0621;    Medical services;100.0;100.0;100.0;100.0;100.0
+CC13-06211;      Medical services of general medicine;100.0;100.0;100.0;100.0;100.0
+CC13-06212;      Medical services of specialists;100.0;100.0;100.0;100.0;100.0
+CC13-0622;    Dental services;100.9;100.0;95.8;96.7;99.7
+CC13-06220;      Dental services;100.9;100.0;95.8;96.7;99.7
+CC13-0623;    Paramedical services;97.8;100.0;101.4;103.9;107.3
+CC13-06231;      Services of laboratories and radiodiagnostics;100.0;100.0;100.0;100.0;100.0
+CC13-06232;      Medicinal baths, physiotherapy, ambulance transp.;95.8;100.0;102.7;108.0;114.7
+CC13-06239;      Other non-medical services;99.5;100.0;100.4;100.9;101.9
+CC13-063;  Hospital services;96.1;100.0;102.4;103.9;107.2
+CC13-0630;    Hospital services;96.1;100.0;102.4;103.9;107.2
+CC13-06300;      Hospital services;96.1;100.0;102.4;103.9;107.2
+CC13-07;Transport;102.4;100.0;107.7;120.0;123.6
+CC13-071;  Purchase of vehicles;99.2;100.0;104.4;113.9;121.1
+CC13-0711;    Passenger cars (excluding campers);99.3;100.0;104.3;114.5;122.7
+CC13-07111;      New passenger car;99.0;100.0;104.6;110.3;117.2
+CC13-07112;      Used passenger car;100.1;100.0;103.4;125.3;137.1
+CC13-0712;    Motorcycles;98.5;100.0;104.8;110.5;113.3
+CC13-07120;      Motorcycles;98.5;100.0;104.8;110.5;113.3
+CC13-0713;    Bicycles;99.7;100.0;106.3;113.5;113.7
+CC13-07130;      Bicycle;99.7;100.0;106.3;113.5;113.7
+CC13-072;  Goods and services for vehicles;103.7;100.0;112.0;129.4;129.7
+CC13-0721;    Spare parts and accessories for vehicles;100.1;100.0;102.8;110.1;119.4
+CC13-07211;      Tyres;99.4;100.0;103.6;113.5;125.1
+CC13-07212;      Other spare parts for cars;101.7;100.0;102.1;107.3;114.5
+CC13-07213;      Accessories for vehicles;100.0;100.0;102.1;107.4;114.9
+CC13-0722;    Fuels and lubricants for vehicles;110.9;100.0;122.3;154.2;145.5
+CC13-07221;      Diesel fuel;112.4;100.0;124.0;173.2;153.7
+CC13-07222;      Supergrade petrol;110.6;100.0;122.1;148.7;142.8
+CC13-07223;      Liquefied petroleum gas and other fuels;103.9;100.0;122.2;174.7;180.0
+CC13-07224;      Motor oil and other lubricants;100.4;100.0;103.0;111.4;119.2
+CC13-0723;    Maintenance and repair of vehicles;96.9;100.0;104.4;110.8;120.1
+CC13-07230;      Maintenance and repair of vehicles;96.9;100.0;104.4;110.8;120.1
+CC13-0724;    Other services for vehicles;98.3;100.0;104.2;109.3;112.7
+CC13-07241;      Rent for cars, garages or parking spaces;98.1;100.0;110.8;131.4;129.9
+CC13-07242;      Road tolls  and parking fees ;97.3;100.0;103.0;108.5;116.2
+CC13-07243;      Driv.school,roadworthiness check motor vehic. etc.;98.5;100.0;103.5;106.9;110.4
+CC13-073;  Transport services;104.8;100.0;100.5;102.4;109.4
+CC13-0731;    Passenger transport by railway;114.3;100.0;96.8;92.1;95.6
+CC13-07311;      Train ticket;114.3;100.0;96.8;92.1;95.6
+CC13-0732;    Passenger transport by road;97.9;100.0;101.8;108.9;120.5
+CC13-07321;      Ticket for long-distance coach;104.2;.;.;.;.
+CC13-07322;      Taxi ride and car pools;97.0;.;.;.;.
+CC13-0733;    Passenger transport by air;95.5;100.0;102.4;132.5;148.8
+CC13-07331;      Domestic flights;94.9;100.0;109.2;117.9;117.1
+CC13-07332;      International flights;95.6;100.0;101.9;133.5;151.0
+CC13-0734;    Passenger transport by waterway;97.7;100.0;104.5;111.2;117.5
+CC13-07341;      Boat trip by sea;98.7;100.0;107.5;111.2;113.6
+CC13-07342;      Boat trip by inland waterway;96.9;100.0;101.8;111.3;120.9
+CC13-0735;    Combined passenger transport services;98.6;100.0;101.6;87.0;89.2
+CC13-07350;      Combined passenger transport services;98.6;100.0;101.6;87.0;89.2
+CC13-0736;    Other purchased transport services;97.9;100.0;103.8;112.6;122.5
+CC13-07362;      Removal and storage services;97.9;100.0;103.8;112.6;122.5
+CC13-08;Communication;102.1;100.0;99.4;99.4;99.8
+CC13-081;  Postal and parcel services;96.6;100.0;99.5;102.5;104.2
+CC13-0810;    Postal and parcel services;96.6;100.0;99.5;102.5;104.2
+CC13-08101;      Postal services;95.1;100.0;100.0;104.3;104.8
+CC13-08109;      Parcel services;98.8;100.0;98.9;100.6;103.7
+CC13-082;  Telephones and other communication devices;107.5;100.0;96.4;100.3;100.8
+CC13-0820;    Telephones and other communication devices;107.5;100.0;96.4;100.3;100.8
+CC13-08201;      Landline telephone;101.0;100.0;100.5;102.9;106.6
+CC13-08202;      Mobile phone without contract;108.1;100.0;96.7;103.8;101.9
+CC13-08203;      Smartwatch, fitness tracker or the like;-;100.0;94.5;93.0;97.3
+CC13-08204;      Repair of telephones;-;100.0;99.7;99.9;101.6
+CC13-083;  Telecommunication services;101.9;100.0;100.1;98.8;98.9
+CC13-0830;    Telecommunication services;101.9;100.0;100.1;98.8;98.9
+CC13-08301;      Wire-based telecommunications services;99.0;100.0;101.0;101.0;103.0
+CC13-08302;      Wireless telecommunications services;102.4;100.0;99.4;97.0;95.4
+CC13-08303;      Access to online services and internet ;101.8;100.0;100.1;99.4;97.8
+CC13-08304;      Combined telecommunication services;101.8;100.0;100.7;100.5;102.2
+CC13-09;Recreation, entertainment and culture;100.3;100.0;102.9;107.9;114.0
+CC13-091;  Audio-visual, photogr., inform. processing equipm.;103.7;100.0;100.9;103.6;103.9
+CC13-0911;    Radio and television sets and the like;104.5;100.0;99.2;97.4;99.2
+CC13-09111;      Equip. for reception,recording,reproduc. of sound;102.5;100.0;103.1;105.2;109.1
+CC13-09112;      TV set, satellite kit or the like;106.8;100.0;97.3;93.8;91.0
+CC13-09113;      MP3 player or the like;102.0;100.0;92.3;91.3;95.9
+CC13-09119;      Headphones, E-book-Reader or the like;100.9;100.0;100.0;98.9;104.6
+CC13-0912;    Photographic a. cinematogr. equip., optical instr.;100.0;100.0;111.7;124.3;130.4
+CC13-09121;      Cameras;99.3;100.0;113.0;128.2;138.4
+CC13-09122;      Zoom lens or the like;102.0;100.0;111.8;121.2;120.6
+CC13-09123;      Binocular or other optical equipment;98.9;100.0;103.1;107.3;108.1
+CC13-0913;    Information processing equipment;105.0;100.0;102.5;108.9;105.5
+CC13-09131;      Personal computers;105.4;100.0;102.5;111.4;106.5
+CC13-09132;      Accessories for information processing equipment;105.2;100.0;104.3;108.1;103.3
+CC13-09133;      Operating system or other software;102.6;100.0;98.6;93.2;102.6
+CC13-0914;    Sound, picture and other data storage media;99.0;100.0;98.1;101.8;105.2
+CC13-09141;      Pre-recorded recording media;96.8;100.0;98.0;100.9;104.0
+CC13-09142;      Unrecorded recording media;107.4;100.0;98.7;113.6;123.1
+CC13-09149;      Memory card, USB flash drive or the like;106.8;100.0;98.2;103.6;106.9
+CC13-0915;    Repair of audio-,photo-,inf. proc. equip.;98.2;100.0;102.4;106.8;112.8
+CC13-09150;      Repair of entertainment electronics;98.2;100.0;102.4;106.8;112.8
+CC13-092;  Other durables for recreation and culture;100.3;100.0;103.6;111.4;119.7
+CC13-0921;    Durable consumer goods for outdoor recreation;100.1;100.0;105.5;115.7;125.0
+CC13-09211;      Camper, caravans or other trailers;99.6;100.0;104.8;116.8;129.7
+CC13-09213;      Boats, outboard motors and equipment for boats;100.5;100.0;106.1;111.8;113.3
+CC13-09214;      Harness, reins, saddle or the like;106.9;100.0;111.2;112.8;108.9
+CC13-09215;      Other durables for outdoor recreation and culture;101.5;100.0;102.7;113.6;116.6
+CC13-0922;    Durable consumer goods for indoor recreation;100.5;100.0;100.2;104.1;109.3
+CC13-09221;      Musical instruments;100.5;100.0;100.2;104.1;109.3
+CC13-0923;    Repair of durables for recreation and culture;101.3;100.0;101.3;103.3;120.1
+CC13-09230;      Repair of durables for recreation and culture;101.3;100.0;101.3;103.3;120.1
+CC13-093;  Other goods a.services f.recreation a.garden,pets;99.2;100.0;102.8;109.3;119.9
+CC13-0931;    Games, toys and hobby goods;99.2;100.0;100.6;103.2;105.9
+CC13-09311;      Games and hobby goods;98.6;100.0;98.0;99.9;103.0
+CC13-09312;      Toys and celebration articles;99.7;100.0;103.1;106.4;108.8
+CC13-0932;    Goods and services for sport, camping, recreation;98.5;100.0;103.2;107.1;108.7
+CC13-09321;      Sport equipment;97.3;100.0;103.4;106.8;107.6
+CC13-09322;      Equipment for camping and outdoor recreation ;104.3;100.0;102.2;108.7;114.3
+CC13-0933;    Garden products, plants and flowers;98.9;100.0;105.1;112.9;122.0
+CC13-09331;      Products for gardening;99.5;100.0;102.9;112.0;122.6
+CC13-09332;      Plants and flowers;98.6;100.0;106.1;113.3;121.7
+CC13-0934;    Pets, including semi-durables and non-durables;99.1;100.0;101.8;111.9;127.8
+CC13-09341;      Budgerigar, ornamental fish or other pet;99.3;100.0;106.4;113.9;121.9
+CC13-09342;      Goods for pets;99.1;100.0;101.5;111.7;128.2
+CC13-0935;    Veterinary and other services for pets;101.3;100.0;101.3;105.4;139.3
+CC13-09350;      Veterinary and other services for pets;101.3;100.0;101.3;105.4;139.3
+CC13-094;  Recreational and cultural services;98.3;100.0;103.8;106.3;109.4
+CC13-0941;    Sporting and recreational services;98.4;100.0;101.5;105.5;110.7
+CC13-09411;      Visit to sporting events and recreational events;99.6;100.0;102.1;108.2;113.1
+CC13-09412;      Recreational and sporting services;98.2;100.0;101.4;104.9;110.2
+CC13-0942;    Cultural services;99.3;100.0;101.9;104.8;107.2
+CC13-09421;      Visit to cinema, theater, concert, circus;99.6;100.0;100.1;103.8;108.3
+CC13-09422;      Visit to the museum, to the zoo or the like;97.2;100.0;102.5;105.6;110.8
+CC13-09423;      Radio and television licence fee;99.3;100.0;102.6;104.9;105.7
+CC13-09425;      Photographic services;102.7;100.0;101.6;107.4;111.2
+CC13-0943;    Games of chance;96.5;100.0;109.6;109.9;111.5
+CC13-09430;      Service charge for games of chance;96.5;100.0;109.6;109.9;111.5
+CC13-095;  Print products, stationery and drawing materials;97.9;100.0;102.8;107.6;114.3
+CC13-0951;    Books;99.3;100.0;102.3;105.1;110.6
+CC13-09511;      Fiction books;98.7;100.0;101.6;105.2;110.4
+CC13-09512;      Educational textbook;97.5;100.0;101.4;103.1;108.7
+CC13-09513;      Other books;99.4;100.0;102.4;104.8;110.7
+CC13-09514;      E-book download;106.8;100.0;105.6;107.7;112.5
+CC13-0952;    Newspapers and periodicals;95.9;100.0;104.4;109.6;116.8
+CC13-09521;      Daily and weekly newspapers;95.4;100.0;104.7;109.8;116.8
+CC13-09522;      Magazines and periodicals ;97.0;100.0;103.9;109.2;116.9
+CC13-0953;    Miscellaneous printed matter;99.0;100.0;100.5;104.5;109.4
+CC13-09530;      Miscellaneous printed matter;99.0;100.0;100.5;104.5;109.4
+CC13-0954;    Stationery and drawing materials;99.3;100.0;102.7;111.1;121.3
+CC13-09541;      Paper products;100.3;100.0;103.7;121.6;138.9
+CC13-09549;      Other stationery and drawing materials;99.1;100.0;102.4;108.1;116.3
+CC13-096;  Package holidays;103.2;100.0;103.7;113.7;124.0
+CC13-0960;    Package holidays;103.2;100.0;103.7;113.7;124.0
+CC13-09601;      Package domestic holidays;99.9;100.0;99.9;106.8;117.5
+CC13-09602;      Package international holidays;103.4;100.0;104.0;114.2;124.4
+CC13-10;Education;100.2;100.0;102.5;104.9;108.9
+CC13-101;  Services of pre-primary and primary education;102.7;100.0;103.5;105.8;109.4
+CC13-1010;    Services of pre-primary and primary education;102.7;100.0;103.5;105.8;109.4
+CC13-10101;      Services of elementary sector;103.6;100.0;103.7;106.2;109.7
+CC13-10102;      Fee for primary school or class 1 - 4;98.4;100.0;101.7;102.8;107.3
+CC13-102;  Services of secondary education;99.8;100.0;101.3;102.4;105.1
+CC13-1020;    Services of secondary education;99.8;100.0;101.3;102.4;105.1
+CC13-10200;      Fee for secondary school;99.8;100.0;101.3;102.4;105.1
+CC13-104;  Services of tertiary education;99.3;100.0;101.1;103.6;109.5
+CC13-1040;    Services of tertiary education;99.3;100.0;101.1;103.6;109.5
+CC13-10400;      University tuition fee and/or registration fee;99.3;100.0;101.1;103.6;109.5
+CC13-105;  Education services not definable by level;98.3;100.0;102.2;105.4;110.1
+CC13-1050;    Education services not definable by level;98.3;100.0;102.2;105.4;110.1
+CC13-10500;      Education services not definable by level;98.3;100.0;102.2;105.4;110.1
+CC13-11;Restaurant and accommodation services;98.0;100.0;102.7;110.5;119.5
+CC13-111;  Restaurant services;97.7;100.0;102.9;110.6;119.8
+CC13-1111;    Restaurants, cafes, street sale and the like;97.7;100.0;103.0;111.1;120.4
+CC13-11111;      Food and beverages in restaurants, cafes, bars;97.7;100.0;102.7;110.1;118.4
+CC13-11112;      Food and beverages in fast food rest. or the like;97.7;100.0;103.4;112.3;122.9
+CC13-1112;    Services in canteens;97.5;100.0;101.7;106.8;114.6
+CC13-11120;      Services in canteens;97.5;100.0;101.7;106.8;114.6
+CC13-112;  Accommodation ;98.9;100.0;102.2;110.0;118.2
+CC13-1120;    Accommodation;98.9;100.0;102.2;110.0;118.2
+CC13-11201;      Accomodation services of hotels, inns or the like;99.7;100.0;101.4;110.1;117.8
+CC13-11202;      Accomod.services, holiday villages, camping sites;97.1;100.0;104.6;110.8;119.7
+CC13-11203;      Accommodation services of other establishments;98.3;100.0;101.3;103.8;115.6
+CC13-12;Miscellaneous goods and services;97.5;100.0;103.8;106.1;113.0
+CC13-121;  Personal care;98.7;100.0;103.2;109.7;119.1
+CC13-1211;    Hairdressing services, other serv. for pers. care;95.9;100.0;104.2;109.5;116.8
+CC13-12111;      Hairdressing services for men and children;94.6;100.0;106.0;112.4;120.8
+CC13-12112;      Hairdressing services for women;95.4;100.0;104.6;110.4;118.3
+CC13-12113;      Other services for personal care;97.6;100.0;102.2;106.0;111.5
+CC13-1212;    Electrical appliances for personal care;99.9;100.0;101.1;104.4;111.5
+CC13-12121;      Electrical appliances for personal care;99.9;100.0;101.1;104.4;111.5
+CC13-1213;    Other articles and products for personal care;101.3;100.0;102.5;110.1;121.6
+CC13-12131;      Non-electrical consumer goods for personal care;99.5;100.0;102.6;106.4;114.2
+CC13-12132;      Non-durable consumer goods for personal care;101.4;100.0;102.5;110.5;122.3
+CC13-123;  Personal effects n.e.c.;98.8;100.0;102.0;106.6;112.1
+CC13-1231;    Jewellery, clocks and watches;97.8;100.0;103.0;108.9;114.5
+CC13-12311;      Jewellery;97.1;100.0;104.0;111.1;116.6
+CC13-12312;      Watch or other clocks;100.2;100.0;100.6;103.2;108.6
+CC13-12313;      Repair of a clock or jewellery;97.7;100.0;102.9;110.4;120.5
+CC13-1232;    Other personal effects;100.3;100.0;100.6;103.3;108.4
+CC13-12321;      Travel goods and other leather goods;100.5;100.0;100.2;102.6;107.8
+CC13-12322;      Baby equipment;101.2;100.0;100.8;102.6;106.1
+CC13-12329;      Other personal effects;99.7;100.0;101.1;104.7;110.4
+CC13-124;  Social protection services;94.7;100.0;105.5;103.8;114.6
+CC13-1240;    Social protection services;94.7;100.0;105.5;103.8;114.6
+CC13-12401;      Child care services;99.3;100.0;101.7;105.3;111.0
+CC13-12402;      Sheltered housing for elderly persons or the like;94.5;100.0;105.8;101.8;111.4
+CC13-12403;      Domestic care services, elderly, disabled persons;93.4;100.0;106.4;111.4;129.8
+CC13-125;  Insurance services;99.6;100.0;101.4;103.4;107.0
+CC13-1252;    Insurance services connected with the dwelling;102.7;100.0;97.1;94.8;93.0
+CC13-12520;      Premium for home contents insurance;102.7;100.0;97.1;94.8;93.0
+CC13-1253;    Insurance services connected with health;98.6;100.0;102.9;105.2;107.0
+CC13-12532;      Insurance services conn. with accident and health;98.6;100.0;102.9;105.2;107.0
+CC13-1254;    Insurance services connected with transport;99.3;100.0;100.6;102.6;110.6
+CC13-12541;      Insurance serv. conn. with means of privat transp.;99.3;100.0;100.6;102.5;110.6
+CC13-12542;      Insurance services conn. with travel and luggage;97.4;100.0;102.1;104.3;108.8
+CC13-1255;    Other insurance services;100.7;100.0;102.0;105.6;106.4
+CC13-12550;      Other insurance services;100.7;100.0;102.0;105.6;106.4
+CC13-126;  Financial services n.e.c.;95.7;100.0;104.9;107.9;109.8
+CC13-1262;    Other financial services n.e.c.;95.7;100.0;104.9;107.9;109.8
+CC13-12621;      Charges f. financial services of banks or the like;96.1;100.0;104.2;107.8;109.8
+CC13-12622;      Charges for investment counceling, tax advise;94.6;100.0;106.7;108.1;109.9
+CC13-127;  Other services n.e.c.;99.4;100.0;105.8;108.8;113.2
+CC13-1270;    Other services n.e.c.;99.4;100.0;105.8;108.8;113.2
+CC13-12701;      Administrative fee;99.2;100.0;109.1;110.2;111.2
+CC13-12702;      Legal advise, fee for lawyer's, notary's services;100.4;100.0;109.2;111.4;114.4
+CC13-12703;      Charge for funeral services or cemetery fee;98.5;100.0;103.0;107.4;113.2
+CC13-12704;      Other fees and services;97.2;100.0;101.5;102.7;109.1
+__________
+© Federal Statistical Office, Wiesbaden 2024
+created: 2024-04-24 / 23:50:16
