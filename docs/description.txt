@@ -24,11 +24,7 @@ matplotlib.pyplot
 sklearn.linear_model > LinearRegression
 scipy.stats > pearsonr
 
-Then we need to perform these tasks:
-
-1. Convert the date column to datetime format
-
-2. Set the date as the index
+# Then we need to set the consumption_label as the index.
 
 
 # 1. How have food prices evolved over the last five years?
