@@ -14,3 +14,42 @@ Possible questions to answer with these data:
 4. For which product (or group of products) CPI has been increased and decreased the most?
 
 5. Can we predict future trends in food prices based on historical CPI data?
+
+
+
+To answer this questions, we will need these python libraries:
+pandas
+numpy
+matplotlib.pyplot
+sklearn.linear_model > LinearRegression
+scipy.stats > pearsonr
+
+Then we need to perform these tasks:
+
+1. Convert the date column to datetime format
+
+2. Set the date as the index
+
+
+# 1. How have food prices evolved over the last five years?
+- Plot the CPI for food over the last five years with matplotlib.
+
+
+# 2. For which product (or group of products) CPI has been stable for the last five years?
+- Calculate the standard deviation of the CPI for each product over the last five years.
+The product with the smallest standard deviation has the most stable CPI.
+
+
+# 3. What is the correlation between the CPI for dairy products and the CPI for meat products?
+- Calculate the correlation coefficient with pearsonr from scipy.stats.
+
+
+# 4. For which product (or group of products) CPI has been increased and decreased the most?
+- Calculate the difference between the maximum and minimum CPI for each product.
+The product with the largest difference has the most increase and decrease.
+
+
+# 5. Can we predict future trends in food prices based on historical CPI data?
+- Fit a linear regression model to the data and make a prediction for the next year with LinearRegression from sklearn.linear_model.
+
+
