@@ -5,7 +5,7 @@ food and beverages can help me budget more effectively for my grocery shopping. 
 
 Possible questions to answer with these data:
 
-1. How have food prices evolved over the last five years?
+1. How have item prices evolved over the last five years?
 
 2. For which product (or group of products) CPI has been stable for the last five years?
 
@@ -13,7 +13,7 @@ Possible questions to answer with these data:
 
 4. For which product (or group of products) CPI has been increased and decreased the most?
 
-5. Can we predict future trends in food prices based on historical CPI data?
+5. Can we predict future trends in item prices based on historical CPI data?
 
 
 
