@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: RSE Individual Project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Md Niaz
+    family-names: Morshed
+    email: md.niaz.morshed@uni-potsdam.de
+repository-code: >-
+  https://gitup.uni-potsdam.de/morshed1/rse-project-01/-/tree/master/src
+license: MIT
+version: 1.0.0
+date-released: '2024-05-12'
