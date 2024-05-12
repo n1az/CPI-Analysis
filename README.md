@@ -2,12 +2,10 @@
 
 <h1 align="center">RSE Individual Project</h1>
 
-<hr>
-
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-research-questions">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-tools">Technologies</a> &#xa0; | &#xa0;
+  <a href="#dart-project-overview">Overview</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-research-questions">Research Question</a> &#xa0; | &#xa0;
+  <a href="#rocket-tools">Tools</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -16,7 +14,7 @@
 
 <br>
 
-## :dart: About ##
+# :dart: Project Overview #
 
 As a food lover who enjoys grocery shopping and cooking, this [dataset on the Consumer Price Index (CPI)
 for Germany](https://www-genesis.destatis.de/genesis//online?operation=table&code=61111-0003&bypass=true&levelindex=0&levelid=1713996336773#abreadcrumb) is particularly interesting to me for many reasons like understanding the CPI trends for
