@@ -11,7 +11,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="#memo-author" target="_blank">Author</a>
+  <a href="#panda_face-author">Author</a>
 </p>
 
 <br>
@@ -58,7 +58,7 @@ $ git clone https://gitup.uni-potsdam.de/morshed1/rse-project-01/
 # Access
 $ cd rse-project-01
 
-# Install dependencies
+# Run src file
 $ jupyter notebook
 
 # The server will initialize in the <http://localhost:8888>
@@ -68,7 +68,7 @@ $ jupyter notebook
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-## :memo: Author ##
+## :panda_face: Author ##
 
 Made with :heart: by <a href="https://gitup.uni-potsdam.de/morshed1" target="_blank">Niaz</a>
 
