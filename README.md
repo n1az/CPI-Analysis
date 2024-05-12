@@ -68,6 +68,10 @@ $ jupyter notebook
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
+## :black_nib: Citation ##
+
+If you use this software, please cite it using [this](CITATION.cff) file.
+
 ## :panda_face: Author ##
 
 Made with :heart: by <a href="https://gitup.uni-potsdam.de/morshed1" target="_blank">Niaz</a>
