@@ -47,6 +47,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
+This project is a Python-based data analysis project. The data used in this project is stored in the `data` folder. The main code for the project is in the `src` directory, specifically in the `EDA.ipynb` Jupyter notebook file.
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Python](https://www.python.org) and all the other [Tools](#rocket-tools) installed.
 
 ## :checkered_flag: Starting ##
@@ -58,7 +59,7 @@ $ git clone https://gitup.uni-potsdam.de/morshed1/rse-project-01/
 # Access
 $ cd rse-project-01
 
-# Run src file
+# Run src folder
 $ jupyter notebook
 
 # The server will initialize in the <http://localhost:8888>
@@ -74,7 +75,7 @@ If you use this software, please cite it using [this](CITATION.cff) file.
 
 ## :panda_face: Author ##
 
-Made with :heart: by <a href="https://gitup.uni-potsdam.de/morshed1" target="_blank">Niaz</a>
+Made with :heart: by <a href="https://gitup.uni-potsdam.de/morshed1" target="_blank">Md Niaz Morshed</a>
 
 &#xa0;
 
