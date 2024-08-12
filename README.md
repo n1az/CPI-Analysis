@@ -1,6 +1,6 @@
 &#xa0;
 
-<h1 align="center">RSE Individual Project</h1>
+<h1 align="center">Consumer Price Index Analaysis</h1>
 
 <p align="center">
   <a href="#dart-project-overview">Overview</a> &#xa0; | &#xa0; 
